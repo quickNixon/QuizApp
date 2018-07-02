@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!--Quiz Title -->
+    <string name="title">What do you know about Kenya?</string>
+
+    <!-- Calculation of Correct and Wrong Answers-->
+    <string name="correct">25 Marks</string>
+    <string name="wrong">0 Marks</string>
+
+    <!--Question 1 and Multiple choice Answers (Check Two correct Answers)-->
+    <string name="question1">1. In which part of the world is Kenya located ( Check Two Options )</string>
+    <string name="question1OptionA">Africa</string>
+    <string name="question1OptionB">Central Africa</string>
+    <string name="question1OptionC">East Africa</string>
+    <string name="question1OptionD">Asia</string>
+
+    <!--Question 2 and Multiple choice Answers (Check Two correct Answers)-->
+    <string name="question2">2. Which Countries below border Kenya? ( Check Two Options )</string>
+    <string name="question2OptionA">Uganda</string>
+    <string name="question2OptionB">Burkina Faso</string>
+    <string name="question2OptionC">Egypt</string>
+    <string name="question2OptionD">Tanzania</string>
+
+    <!--Question 3 Choose One correct Answer-->
+    <string name="question3">3. Kenya is a Landlocked Country.Is this True or False?</string>
+    <string name="question3OptionA">False</string>
+    <string name="question3OptionB">True</string>
+
+    <!--Question 4 Type a descriptor of the Local currency symbol used in Kenya( A Hint is Displayed)-->
+    <string name="question4">4. Which Symbol of Local Currency is used in Kenya?</string>
+    <string name="question4Answer">Ksh</string>
+    <string name="questionHint">$</string>
+
+    <!--Finalisation descriptors..the ignore String is to suppress an error in the ImageView of map of Africa-->
+
+    <string name="ignore">ignore</string>
+    <string name="submit_answers">submit Answer</string>
+    <string name="Pass">Congratulations! You Passed!\nYour Total Marks Are.. </string>
+    <string name="percentPass">%</string>
+    <string name="Fail">Failed! Try Again! \nYour Score is </string>
+    <string name="percentFail">%</string>
+
+
+
+</resources>
